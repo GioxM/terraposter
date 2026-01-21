@@ -1,0 +1,15 @@
+{
+  "name": "Boreal North",
+  "description": "Cold forests, snow, and deep infrastructure",
+  "bg": "#F6F8FA",
+  "text": "#101820",
+  "gradient_color": "#E7EDF2",
+  "water": "#4F83A3",
+  "parks": "#CFE1D6",
+  "road_motorway": "#2B2B2B",
+  "road_primary": "#3C3C3C",
+  "road_secondary": "#555555",
+  "road_tertiary": "#6E6E6E",
+  "road_residential": "#8A8A8A",
+  "road_default": "#555555"
+}

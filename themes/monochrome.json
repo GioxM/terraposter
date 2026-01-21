@@ -1,0 +1,15 @@
+{
+  "name": "Noir",
+  "description": "Strict black background with pure white roads – dramatic minimalism",
+  "bg": "#0F0F0F",
+  "text": "#F5F5F5",
+  "gradient_color": "#0F0F0F",
+  "water": "#1A1A1A",
+  "parks": "#222222",
+  "road_motorway": "#FFFFFF",
+  "road_primary": "#E0E0E0",
+  "road_secondary": "#C0C0C0",
+  "road_tertiary": "#A0A0A0",
+  "road_residential": "#808080",
+  "road_default": "#A0A0A0"
+}

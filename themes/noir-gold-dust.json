@@ -1,0 +1,16 @@
+{
+  "name": "Noir Gold Dust",
+  "description": "Elegant noir with subtle gold accents",
+  "bg": "#000000",
+  "text": "#FFFFFF",
+  "gradient_color": "#000000",
+  "accent": "#D4AF37",
+  "water": "#0A0A0A",
+  "parks": "#161616",
+  "road_motorway": "#D4AF37",
+  "road_primary": "#F1E3A2",
+  "road_secondary": "#B0B0B0",
+  "road_tertiary": "#808080",
+  "road_residential": "#505050",
+  "road_default": "#808080"
+}

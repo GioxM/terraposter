@@ -1,0 +1,4 @@
+{'event': 'start', 'args': {'city': 'Amsterdam', 'country': 'Netherlands', 'theme': 'noir', 'distance': 50000, 'format': 'png', 'verbose': True, 'list_themes': False, 'no_cache': False, 'dpi': None, 'quality': 'print', 'size': 'desktop-4k'}}
+{'event': 'theme_loaded', 'theme': 'noir'}
+{'event': 'geocode', 'point': (52.3730796, 4.8924534)}
+{'event': 'cache_miss'}

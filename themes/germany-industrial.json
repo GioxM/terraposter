@@ -1,0 +1,15 @@
+{
+  "name": "Industrial Precision",
+  "description": "Neutral greys with strong hierarchy",
+  "bg": "#F2F2F2",
+  "text": "#0D0D0D",
+  "gradient_color": "#E0E0E0",
+  "water": "#BFC9D1",
+  "parks": "#E4E8E3",
+  "road_motorway": "#000000",
+  "road_primary": "#1A1A1A",
+  "road_secondary": "#333333",
+  "road_tertiary": "#4D4D4D",
+  "road_residential": "#666666",
+  "road_default": "#333333"
+}

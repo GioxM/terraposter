@@ -1,0 +1,15 @@
+{
+  "name": "Desert Nile",
+  "description": "Warm sands with deep river contrast",
+  "bg": "#FBF2E6",
+  "text": "#3A2A1A",
+  "gradient_color": "#F3E2C7",
+  "water": "#3A6EA5",
+  "parks": "#EAD8B5",
+  "road_motorway": "#6B3E1E",
+  "road_primary": "#8A4F2A",
+  "road_secondary": "#A8653C",
+  "road_tertiary": "#C17E55",
+  "road_residential": "#D8A17A",
+  "road_default": "#A8653C"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Noir Ember",
+  "description": "Pure noir with warm orange highlights",
+  "bg": "#000000",
+  "text": "#FFFFFF",
+  "gradient_color": "#000000",
+  "accent": "#FF8C1A",
+  "water": "#0A0A0A",
+  "parks": "#141414",
+  "road_motorway": "#FF8C1A",
+  "road_primary": "#FFD2A1",
+  "road_secondary": "#B0B0B0",
+  "road_tertiary": "#808080",
+  "road_residential": "#505050",
+  "road_default": "#808080"
+}

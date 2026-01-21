@@ -1,0 +1,4 @@
+{'event': 'start', 'args': {'city': 'Amsterdam', 'country': 'Netherlands', 'theme': 'noir', 'distance': 50000, 'format': 'png', 'verbose': True, 'list_themes': False, 'no_cache': False}}
+{'event': 'theme_loaded', 'theme_name': 'noir'}
+{'event': 'geocode', 'point': (52.3730796, 4.8924534)}
+{'event': 'output_path_generated', 'path': 'D:\\Code\\python\\terraposter\\posters\\amsterdam_noir_20260121_123706.png'}

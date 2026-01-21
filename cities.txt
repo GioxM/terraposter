@@ -1,0 +1,45 @@
+Perfect — here’s a **copy-ready table** with **city, country, and recommended distance (meters)** based on what actually looks good on a map (street geometry, density, recognizability). These are opinionated but tested ranges, not guesses.
+
+| City                         | Country        | Recommended distance (meters) |
+| ---------------------------- | -------------- | ----------------------------- |
+| Kyoto                        | Japan          | 8000–12000                    |
+| Amsterdam                    | Netherlands    | 6000–10000                    |
+| Paris                        | France         | 12000–18000                   |
+| Barcelona                    | Spain          | 8000–14000                    |
+| Rome                         | Italy          | 12000–20000                   |
+| Venice                       | Italy          | 4000–7000                     |
+| Florence                     | Italy          | 5000–8000                     |
+| Copenhagen                   | Denmark        | 8000–12000                    |
+| Stockholm                    | Sweden         | 12000–20000                   |
+| Helsinki                     | Finland        | 10000–16000                   |
+| Edinburgh                    | Scotland (UK)  | 6000–10000                    |
+| Bath                         | England (UK)   | 4000–7000                     |
+| Oxford                       | England (UK)   | 4000–7000                     |
+| Prague                       | Czech Republic | 7000–12000                    |
+| Vienna                       | Austria        | 12000–18000                   |
+| Budapest                     | Hungary        | 12000–18000                   |
+| Bruges                       | Belgium        | 4000–7000                     |
+| Ghent                        | Belgium        | 5000–8000                     |
+| Bern                         | Switzerland    | 5000–8000                     |
+| Lucerne                      | Switzerland    | 5000–8000                     |
+| Lisbon                       | Portugal       | 8000–14000                    |
+| Porto                        | Portugal       | 6000–10000                    |
+| Dubrovnik                    | Croatia        | 4000–6000                     |
+| Split                        | Croatia        | 6000–10000                    |
+| Valletta                     | Malta          | 3000–5000                     |
+| Jerusalem (Old City)         | Israel         | 3000–5000                     |
+| Fez (Medina)                 | Morocco        | 3000–5000                     |
+| Marrakech (Medina)           | Morocco        | 4000–7000                     |
+| Isfahan                      | Iran           | 10000–16000                   |
+| Shiraz                       | Iran           | 8000–14000                    |
+| Jaipur                       | India          | 12000–20000                   |
+| Chandigarh                   | India          | 15000–25000                   |
+| Washington, D.C.             | United States  | 15000–25000                   |
+| Savannah                     | United States  | 6000–10000                    |
+| Charleston                   | United States  | 6000–10000                    |
+| New Orleans (French Quarter) | United States  | 4000–7000                     |
+| San Francisco                | United States  | 15000–25000                   |
+| La Plata                     | Argentina      | 15000–25000                   |
+| Brasília                     | Brazil         | 20000–35000                   |
+| Canberra                     | Australia      | 20000–35000                   |
+

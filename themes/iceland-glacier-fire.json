@@ -1,0 +1,15 @@
+{
+  "name": "Glacier Fire",
+  "description": "Cold whites and blues with volcanic dark roads",
+  "bg": "#F7FAFC",
+  "text": "#0A0F14",
+  "gradient_color": "#E6EEF5",
+  "water": "#9EC6D8",
+  "parks": "#E3ECE8",
+  "road_motorway": "#1A1A1A",
+  "road_primary": "#2B2B2B",
+  "road_secondary": "#3D3D3D",
+  "road_tertiary": "#555555",
+  "road_residential": "#6A6A6A",
+  "road_default": "#3D3D3D"
+}

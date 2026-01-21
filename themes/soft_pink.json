@@ -1,0 +1,15 @@
+{
+  "name": "Soft Pink & Sakura",
+  "description": "Delicate sakura-inspired palette – soft blush pinks on creamy white",
+  "bg": "#FDF4F5",
+  "text": "#4A2C3F",
+  "gradient_color": "#FDF4F5",
+  "water": "#F8D7DA",
+  "parks": "#FCE8EA",
+  "road_motorway": "#D81E5B",
+  "road_primary": "#E86A92",
+  "road_secondary": "#F4A5B8",
+  "road_tertiary": "#F9C7D3",
+  "road_residential": "#FCE0E6",
+  "road_default": "#F9C7D3"
+}

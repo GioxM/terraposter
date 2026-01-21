@@ -1,0 +1,15 @@
+{
+  "name": "Vintage Sepia",
+  "description": "Classic old-map look – warm sepia tones with subtle browns",
+  "bg": "#F5E8D3",
+  "text": "#4A2C1F",
+  "gradient_color": "#F5E8D3",
+  "water": "#E8D5B5",
+  "parks": "#EDE0C2",
+  "road_motorway": "#5C4033",
+  "road_primary": "#7A5A45",
+  "road_secondary": "#987458",
+  "road_tertiary": "#B68E6A",
+  "road_residential": "#D4A883",
+  "road_default": "#B68E6A"
+}

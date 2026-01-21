@@ -1,0 +1,15 @@
+{
+  "name": "Graphite Gradient Roads",
+  "description": "Neutral graphite palette with smooth luminance-based road hierarchy",
+  "bg": "#FAFAFA",
+  "text": "#111111",
+  "gradient_color": "#F5F5F5",
+  "water": "#DADDE1",
+  "parks": "#ECECEC",
+  "road_motorway": "#080808",
+  "road_primary": "#1A1A1A",
+  "road_secondary": "#2F2F2F",
+  "road_tertiary": "#454545",
+  "road_residential": "#5C5C5C",
+  "road_default": "#454545"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Midnight Ocean",
+  "description": "Dark nautical night with glowing cyan/teal infrastructure",
+  "bg": "#0B1D3A",
+  "text": "#BFE4FF",
+  "gradient_color": "#0B1D3A",
+  "water": "#051227",
+  "parks": "#1A3A5C",
+  "road_motorway": "#7DD3FC",
+  "road_primary": "#60C0F5",
+  "road_secondary": "#3AA8E8",
+  "road_tertiary": "#1A90D8",
+  "road_residential": "#0F78C0",
+  "road_default": "#1A90D8"
+}

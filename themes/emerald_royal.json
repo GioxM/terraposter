@@ -1,0 +1,15 @@
+{
+  "name": "Emerald & Royal",
+  "description": "Rich emerald green base with majestic royal purple accents",
+  "bg": "#0A2F1F",
+  "text": "#E6D9F2",
+  "gradient_color": "#0A2F1F",
+  "water": "#062016",
+  "parks": "#145236",
+  "road_motorway": "#D4A5F5",
+  "road_primary": "#C08BE8",
+  "road_secondary": "#AC71DB",
+  "road_tertiary": "#9857CE",
+  "road_residential": "#8440C2",
+  "road_default": "#9857CE"
+}

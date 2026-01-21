@@ -1,0 +1,16 @@
+{
+  "name": "Noir Neon Teal",
+  "description": "Noir black base with crisp teal highlights",
+  "bg": "#000000",
+  "text": "#FFFFFF",
+  "gradient_color": "#000000",
+  "accent": "#00F5D4",
+  "water": "#021B1A",
+  "parks": "#102020",
+  "road_motorway": "#00F5D4",
+  "road_primary": "#72EFDD",
+  "road_secondary": "#B0B0B0",
+  "road_tertiary": "#808080",
+  "road_residential": "#505050",
+  "road_default": "#808080"
+}

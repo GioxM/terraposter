@@ -1,0 +1,15 @@
+{
+  "name": "Saffron Earth",
+  "description": "Warm saffron tones with grounded contrast",
+  "bg": "#FFF8EC",
+  "text": "#2A1B0F",
+  "gradient_color": "#FFE4B8",
+  "water": "#6FAED9",
+  "parks": "#E6D7B8",
+  "road_motorway": "#C65102",
+  "road_primary": "#E06B04",
+  "road_secondary": "#F08A24",
+  "road_tertiary": "#F4A85A",
+  "road_residential": "#F7C58C",
+  "road_default": "#F08A24"
+}

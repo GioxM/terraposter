@@ -1,0 +1,15 @@
+{
+  "name": "Nordic Blue",
+  "description": "Clean Scandinavian blue with muted yellow highlights",
+  "bg": "#F5F8FA",
+  "text": "#0E1A24",
+  "gradient_color": "#E6EEF5",
+  "water": "#7FB3D5",
+  "parks": "#E3EDE5",
+  "road_motorway": "#1F3A5F",
+  "road_primary": "#2E4F7A",
+  "road_secondary": "#466B94",
+  "road_tertiary": "#5F87AE",
+  "road_residential": "#7FA3C4",
+  "road_default": "#466B94"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Cream & Champagne",
+  "description": "Subtle luxury – warm cream with soft golden champagne highlights",
+  "bg": "#F8F1E9",
+  "text": "#3C2F2F",
+  "gradient_color": "#F8F1E9",
+  "water": "#EDE4D9",
+  "parks": "#F2E9DD",
+  "road_motorway": "#D4A373",
+  "road_primary": "#E0B88A",
+  "road_secondary": "#EACDA8",
+  "road_tertiary": "#F1D9B8",
+  "road_residential": "#F7E3CA",
+  "road_default": "#F1D9B8"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Noir Crimson",
+  "description": "Deep black noir with crimson red accents",
+  "bg": "#000000",
+  "text": "#FFFFFF",
+  "gradient_color": "#000000",
+  "accent": "#C1121F",
+  "water": "#0A0A0A",
+  "parks": "#131313",
+  "road_motorway": "#C1121F",
+  "road_primary": "#E85D68",
+  "road_secondary": "#B0B0B0",
+  "road_tertiary": "#808080",
+  "road_residential": "#505050",
+  "road_default": "#808080"
+}

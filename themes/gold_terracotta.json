@@ -1,0 +1,15 @@
+{
+  "name": "Deep Gold & Terracotta",
+  "description": "Warm terracotta base with deep metallic gold accents – elegant and timeless",
+  "bg": "#3C2F2F",
+  "text": "#F4D58D",
+  "gradient_color": "#3C2F2F",
+  "water": "#2A1F1F",
+  "parks": "#5A3F3A",
+  "road_motorway": "#F4D58D",
+  "road_primary": "#E8C670",
+  "road_secondary": "#D4B25C",
+  "road_tertiary": "#C19E48",
+  "road_residential": "#A88334",
+  "road_default": "#C19E48"
+}

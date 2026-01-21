@@ -1,0 +1,5 @@
+{'event': 'start', 'args': {'city': 'Curacao', 'country': 'Curacao', 'theme': 'noir', 'distance': 10000, 'format': 'png', 'verbose': True, 'list_themes': False, 'no_cache': False, 'dpi': 300, 'quality': 'print', 'size': 'default'}}
+{'event': 'theme_loaded', 'theme': 'noir'}
+{'event': 'geocode', 'point': (12.2135136, -69.040892)}
+{'event': 'cache_miss'}
+{'event': 'end', 'duration': 22.232765800003108}

@@ -1,0 +1,5 @@
+{'event': 'start', 'args': {'city': 'Bonaire', 'country': 'Bonaire', 'theme': 'noir', 'distance': 23000, 'format': 'png', 'verbose': True, 'list_themes': False, 'no_cache': False, 'dpi': 300, 'quality': 'print', 'size': 'default'}}
+{'event': 'theme_loaded', 'theme': 'noir'}
+{'event': 'geocode', 'point': (39.8661263, 3.1460329)}
+{'event': 'cache_miss'}
+{'event': 'end', 'duration': 53.05767790000027}

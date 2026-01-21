@@ -1,0 +1,5 @@
+{'event': 'start', 'args': {'city': 'Netherlands', 'country': 'Netherlands', 'theme': 'noir', 'distance': 50000, 'format': 'png', 'verbose': True, 'list_themes': False, 'no_cache': False, 'dpi': 300, 'quality': 'print', 'size': 'default'}}
+{'event': 'theme_loaded', 'theme': 'noir'}
+{'event': 'geocode', 'point': (52.2434979, 5.6343227)}
+{'event': 'cache_miss'}
+{'event': 'end', 'duration': 2779.904056900001}

@@ -1,0 +1,15 @@
+{
+  "name": "Imperial China",
+  "description": "Warm yellow base with deep red hierarchy",
+  "bg": "#FFF6E0",
+  "text": "#2A1A12",
+  "gradient_color": "#FFE9B8",
+  "water": "#C9D6DF",
+  "parks": "#EDE6C9",
+  "road_motorway": "#8B1E1E",
+  "road_primary": "#A62A2A",
+  "road_secondary": "#BF3A3A",
+  "road_tertiary": "#D45A5A",
+  "road_residential": "#E07A7A",
+  "road_default": "#BF3A3A"
+}

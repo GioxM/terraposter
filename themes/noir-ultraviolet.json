@@ -1,0 +1,17 @@
+{
+  "name": "Noir Ultraviolet",
+  "description": "Minimal noir infused with violet neon highlights",
+  "bg": "#000000",
+  "text": "#FFFFFF",
+  "gradient_color": "#000000",
+  "accent": "#7B2CBF",
+  "water": "#0A0A0A",
+  "parks": "#151515",
+  "road_motorway": "#7B2CBF",
+  "road_primary": "#C77DFF",
+  "road_secondary": "#B0B0B0",
+  "road_tertiary": "#808080",
+  "road_residential": "#505050",
+  "road_default": "#808080"
+}
+

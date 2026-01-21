@@ -1,0 +1,15 @@
+{
+  "name": "Amazon Verde",
+  "description": "Lush greens with deep river blues",
+  "bg": "#F4F9F5",
+  "text": "#0F1F17",
+  "gradient_color": "#E6F2EA",
+  "water": "#5DADE2",
+  "parks": "#BFE3C0",
+  "road_motorway": "#1E5631",
+  "road_primary": "#2E7D4F",
+  "road_secondary": "#3FA66B",
+  "road_tertiary": "#66C18C",
+  "road_residential": "#8AD3A7",
+  "road_default": "#3FA66B"
+}

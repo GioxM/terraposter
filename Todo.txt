@@ -1,0 +1,16 @@
+- I Want it to remember wether a city map was already generated and that it doesnt need to everytime render it
+    - THis needs to be done in a smart way adabtable to run on every computer
+- It needs to be ale to handle different resolutions
+- It needs to be able to handle also more than just city maps,
+    - It can also be done fiction
+    - If its fiction it can look at a folder or another open source thing to look at the map and do these functions also with it.
+- It can have the functions to be prescise, in providing the names of the streets to make it more authentic,
+- It can higlhight the important river, main streets, etc so that they are set apart. 
+    - THis can happen with asking the user questions in the terminal.
+- It needs to be able to also do lands, countries, ilnads etc.
+- It schould also accept coordinants
+- It should also ask and provide the original names in their original forms. 
+    - With all the symbols or characters that the name and the land has.
+It should also have my watermark in it
+- It should also remembers the distance number that i have already used for the same city and land and the theme.
+It should also covers the complete image. and dont have the boarder that it has at the moment.

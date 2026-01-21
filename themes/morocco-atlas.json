@@ -1,0 +1,15 @@
+{
+  "name": "Atlas Clay",
+  "description": "Earthy clay tones with indigo water",
+  "bg": "#FAF1E6",
+  "text": "#2C1E14",
+  "gradient_color": "#F0DFC9",
+  "water": "#355C7D",
+  "parks": "#E5D3B3",
+  "road_motorway": "#7B3F00",
+  "road_primary": "#9A4F10",
+  "road_secondary": "#B8672A",
+  "road_tertiary": "#CF8A55",
+  "road_residential": "#E1AE7F",
+  "road_default": "#B8672A"
+}

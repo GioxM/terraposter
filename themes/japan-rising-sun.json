@@ -1,0 +1,15 @@
+{
+  "name": "Rising Sun",
+  "description": "Minimalist white with disciplined red roads",
+  "bg": "#FFFFFF",
+  "text": "#111111",
+  "gradient_color": "#F2F2F2",
+  "water": "#C9DDED",
+  "parks": "#EAEFEA",
+  "road_motorway": "#B00020",
+  "road_primary": "#C62828",
+  "road_secondary": "#D84343",
+  "road_tertiary": "#E57373",
+  "road_residential": "#F0A0A0",
+  "road_default": "#D84343"
+}
